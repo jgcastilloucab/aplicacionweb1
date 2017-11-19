@@ -61,3 +61,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Not necessary folders
+/build
+/nbproject
