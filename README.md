@@ -23,4 +23,4 @@ de esta manera estará ejecutando el arranque del servidor
 * En el menú de administración del Payara ubique la opción **Resources**, e importe el archivo **glassfish-resources.xml** que se encuentra en la carpeta *web/WEB_INF* del proyecto descargado. Al ejecutarlo tendrá definido el *JDBC connectionPool* y el *JDBC Resource* que necesita para que Payara administre las conexiones a la base de datos del proyecto.
 * Ahora registre el servidor Payara en el Netbeans, tal como se hizo en la clase
 * Por último despliegue la aplicación usando la opción del menú contextual **Deploy** (para tener acceso al menú contextual haga click derecho sobre el proyecto cargado en Netbeans y este aparecerá)
-* Listo dirígase al navegador y coloque la dirección *http://localhost:8080/aplicacionweb1* y ya debería ver l aforma de ingreso a la misma.
+* Listo dirígase al navegador y coloque la dirección *http://localhost:8080/aplicacionweb1* y ya debería ver la forma de ingreso a la misma.
