@@ -1,5 +1,5 @@
 # aplicacionweb1
-Aplicación web sencilla usada como ejemplo para la materia Desarrollo de Aplicaciones de Escritorio y Web Usando Java de la escuela de Ingeniería de Telecomunicaciones de la UCAB
+Aplicación web sencilla usada como ejemplo para la materia **Desarrollo de Aplicaciones de Escritorio y Web Usando Java** de la **Escuela de Ingeniería de Telecomunicaciones de la UCAB**
 
 ## Comenzando
 Estas instrucciones le permitirán tener una copia del proyecto realizado en clase, para que pueda manipularlo en su propia máquina, con propósito de estudiarlo, modificarlo o mejorarlo. Ver las notas de despliegue de cómo hacerlo funcionar en el Payara Server.
