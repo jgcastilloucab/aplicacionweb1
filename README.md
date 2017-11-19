@@ -24,6 +24,3 @@ de esta manera estará ejecutando el arranque del servidor
 * Ahora registre el servidor Payara en el Netbeans, tal como se hizo en la clase
 * Por último despliegue la aplicación usando la opción del menú contextual **Deploy** (para tener acceso al menú contextual haga click derecho sobre el proyecto cargado en Netbeans y este aparecerá)
 * Listo dirígase al navegador y coloque la dirección *http://localhost:8080/aplicacionweb1* y ya debería ver l aforma de ingreso a la misma.
-
-## Licencia
-Este proyecto está licenciado bajo la licencia MIT license - ver el archivo [LICENSE.md](LICENSE.md) para detalles
